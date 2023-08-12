@@ -34,6 +34,3 @@
   <img src="https://github.com/stan-alam/Cloud/blob/develop/insdrCloud/01/images/insdrCloud01%20-%20page%209.png" width="80%" height="80%">
 </a>
 
-<a>
-  <img src="https://github.com/stan-alam/Cloud/blob/develop/insdrCloud/01/images/insdrCloud01%20-%20page%2010.png" width="80%" height="80%">
-</a>
